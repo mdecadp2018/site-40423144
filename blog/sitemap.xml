@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-10-12T10:04:05-00:00</lastmod>
+<lastmod>2018-10-12T10:12:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-10-12T10:04:05-00:00</lastmod>
+<lastmod>2018-10-12T10:12:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-10-12T10:04:05-00:00</lastmod>
+<lastmod>2018-10-12T10:12:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-10-12T10:04:05-00:00</lastmod>
+<lastmod>2018-10-12T10:12:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog.html</loc>
+<loc>./2018-Fall-Project-Blog W1.html</loc>
+<lastmod>2018-09-14T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2018-Fall-Project-Blog START.html</loc>
 <lastmod>2018-09-10T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -47,21 +54,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<lastmod>2018-09-14T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2018fall.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<lastmod>2018-09-14T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/nfumde.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<loc>./author/40423144.html</loc>
+<lastmod>2018-09-14T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
