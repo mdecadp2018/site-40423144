@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1"><vh>@settings</vh>
+<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -23,7 +23,7 @@
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
-<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
