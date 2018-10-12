@@ -23,7 +23,7 @@
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
@@ -60,7 +60,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
+<v t="yen.20170108171733.71"><vh>@path markdown</vh>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -72,6 +72,7 @@
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 <v t="leo.20181012100833.1"><vh>@edit 20180914.md</vh></v>
 <v t="leo.20181012101521.1"><vh>@edit 20180921.md</vh></v>
+<v t="leo.20181012102400.1"><vh>@edit 20180928.md</vh></v>
 </v>
 </v>
 </v>
