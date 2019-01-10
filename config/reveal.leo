@@ -21,10 +21,31 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20190111023700.1"><vh>簡介</vh>
+<v t="leo.20190111023700.2"><vh>簡介</vh></v>
+</v>
+<v t="leo.20190111023658.1"><vh>github</vh>
+<v t="leo.20190111023658.2"><vh>github</vh></v>
+</v>
+<v t="leo.20190111023655.1"><vh>onshape</vh>
+<v t="leo.20190111023655.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111023653.1"><vh>期末專題</vh>
+<v t="leo.20190111023653.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111032019.1" a="E"><vh>slovespace</vh>
+<v t="leo.20190111032019.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111024805.1"><vh>ONshape</vh>
+<v t="leo.20190111024805.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.9" a="E"><vh>THE END</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190111030435.1"><vh>封面投影片</vh>
+<v t="leo.20190111030435.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -124,16 +145,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
+<t tx="leo.20180827201621.10">## THE END
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -325,6 +337,109 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190111023653.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023653.2">## 期末專題
+
+四足行走機構 
+
+
+</t>
+<t tx="leo.20190111023655.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023655.2">## Onshape
+
+協同
+</t>
+<t tx="leo.20190111023658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023658.2">## 利用 git hub 
+網誌 投影片 部落格
+
+</t>
+<t tx="leo.20190111023700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023700.2">## 機械設計系電腦輔助設計實習
+40423144 葉宗翰
+
+
+
+
+
+</t>
+<t tx="leo.20190111024805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024805.2">## Onshape
+
+</t>
+<t tx="leo.20190111030435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111030435.2">## 2018Fall 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190111032019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111032019.2">## Slovespace
+
 </t>
 </tnodes>
 </leo_file>
