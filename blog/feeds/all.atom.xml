@@ -1,66 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系2018Fall 分組網誌40423144</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-06T11:00:00+08:00</updated><entry><title>第八週 W8</title><link href="./2018-W8-Project-Blog.html" rel="alternate"></link><published>2018-11-06T11:00:00+08:00</published><updated>2018-11-06T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-11-06:./2018-W8-Project-Blog.html</id><summary type="html">&lt;p&gt;Week8&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week8&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系2018Fall 分組網誌40423144</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-06T11:00:00+08:00</updated><entry><title>第八週 W8</title><link href="./2018-W8-Project-Blog.html" rel="alternate"></link><published>2018-11-06T11:00:00+08:00</published><updated>2018-11-06T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-11-06:./2018-W8-Project-Blog.html</id><summary type="html">&lt;p&gt;Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第七週 W7</title><link href="./2018-W7-Project-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-26:./2018-W7-Project-Blog.html</id><summary type="html">&lt;p&gt;Week7&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week7&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-CpvV1Wf39w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Md9anfDh7kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hqGSe6zHF74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>第七週 W7</title><link href="./2018-W7-Project-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-26:./2018-W7-Project-Blog.html</id><summary type="html">&lt;p&gt;Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第六週 W6</title><link href="./2018-W6-Project-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-19:./2018-W6-Project-Blog.html</id><summary type="html">&lt;p&gt;Week6&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week6&lt;/p&gt;
+&lt;hr&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rUvhQDm9zCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gM9bCMV4Sk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>第六週 W6</title><link href="./2018-W6-Project-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-19:./2018-W6-Project-Blog.html</id><summary type="html">&lt;p&gt;Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第五週 W5</title><link href="./2018-W5-Project-Blog.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-12:./2018-W5-Project-Blog.html</id><summary type="html">&lt;p&gt;Week5&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week5&lt;/p&gt;
+&lt;p&gt;onshap lesson教材第三篇&lt;/p&gt;
+&lt;p&gt;1.Using Boolean operations&lt;/p&gt;
+&lt;p&gt;2.Applying linear and circular patterning&lt;/p&gt;
+&lt;p&gt;3.Applying mirror tool&lt;/p&gt;
+&lt;p&gt;4.Assemblies in Onshape&lt;/p&gt;
+&lt;p&gt;5.An introduction to concurrent top-down and bottom-up designs&lt;/p&gt;
+&lt;p&gt;6.Creating a Multi-Part design in a Part Studio&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第五週 W5</title><link href="./2018-W5-Project-Blog.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-12:./2018-W5-Project-Blog.html</id><summary type="html">&lt;p&gt;Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第四週 W4</title><link href="./2018-W4-Project-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-05:./2018-W4-Project-Blog.html</id><summary type="html">&lt;p&gt;Week4&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week4&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;上課筆記
+1.再命令提示列打 git version 可以查看p37的版本&lt;/p&gt;
+&lt;p&gt;onshap lesson教材第二篇
+1.簡介"設計意圖" (design intent)&lt;/p&gt;
+&lt;p&gt;2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;
+&lt;p&gt;3.自動推理 (automatic inferencing)&lt;/p&gt;
+&lt;p&gt;4.繪製精確的零件 (accurate part)&lt;/p&gt;
+&lt;p&gt;5.草圖繪製練習&lt;/p&gt;
+&lt;p&gt;6.運用與建立平面 (planes)&lt;/p&gt;
+&lt;p&gt;7.建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;
+&lt;p&gt;8.使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;
+&lt;p&gt;9.繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;
+&lt;p&gt;10.各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第四週 W4</title><link href="./2018-W4-Project-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-10-05:./2018-W4-Project-Blog.html</id><summary type="html">&lt;p&gt;學習onshape基本用法&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學習onshape基本用法&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第三週 W3</title><link href="./2018-W3-Project-Blog.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-09-28:./2018-W3-Project-Blog.html</id><summary type="html">&lt;p&gt;Week3&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week3&lt;/p&gt;
+&lt;h2&gt;學習onshape基本用法&lt;/h2&gt;
+&lt;p&gt;1.說明草圖 ( sketch-based )的建模&lt;/p&gt;
+&lt;p&gt;2.介紹 4 個基本特徵 ( feature s)（擠出 ( extrude )，旋轉 ( revolve )，掃描 ( sweep )，和斷面混成 ( loaf )）&lt;/p&gt;
+&lt;p&gt;3.從 2D 過渡到 3D&lt;/p&gt;
+&lt;p&gt;4.圓柱薄殼 ( cylinder shell ) - 繪圖界面與可視化 / 檢視的介紹&lt;/p&gt;
+&lt;p&gt;5.針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
+&lt;p&gt;6.現存公用模型 (public models) - 如何搜尋並復製到工作區 ( workspace )&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第三週 W3</title><link href="./2018-W3-Project-Blog.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40423144</name></author><id>tag:None,2018-09-28:./2018-W3-Project-Blog.html</id><summary type="html">&lt;p&gt;Week3 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week3 &lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
